@@ -14,7 +14,7 @@ Add the following to your `biome.json` file.
 
 ```json
 {
-    "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
-    "extends": ["./node_modules/@mskelton/biome-config/config.json"]
+  "$schema": "./node_modules/@biomejs/biome/configuration_schema.json",
+  "extends": ["./node_modules/@mskelton/biome-config/config.json"]
 }
 ```
