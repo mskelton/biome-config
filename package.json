@@ -1,16 +1,18 @@
 {
-  "name": "@mskelton/biome-config",
-  "version": "1.0.0",
-  "publishConfig": {
-    "access": "public"
-  },
-  "files": [
-    "config.json"
-  ],
-  "exports": {
-    ".": "./config.json"
-  },
-  "devDependencies": {
-    "@biomejs/biome": "^1.9.4"
-  }
+	"name": "@mskelton/biome-config",
+	"version": "1.0.1",
+	"license": "ISC",
+	"publishConfig": {
+		"access": "public"
+	},
+	"files": [
+		"config.json"
+	],
+	"exports": {
+		".": "./config.json"
+	},
+	"scripts": {},
+	"devDependencies": {
+		"@biomejs/biome": "^1.9.4"
+	}
 }
